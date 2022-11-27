@@ -1,0 +1,7 @@
+{
+	"pack": {
+		"description": "Replaces the \"th\"-digraph with thorn (Þþ) and eth (Ðð).",
+		"pack_format": 8,
+		"name": "English (Thorn & Eth)"
+	}
+}
