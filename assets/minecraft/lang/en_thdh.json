@@ -1,7 +1,7 @@
 {
-  "language.name": "English (Thorn & Eth)",
+  "language.name": "English w/ Þ & Ð",
   "language.region": "United States",
-  "language.code": "enws",
+  "language.code": "en_thdh",
   "narrator.button.accessibility": "Accessibility",
   "narrator.button.language": "Language",
   "narrator.button.difficulty_lock": "Difficulty lock",
