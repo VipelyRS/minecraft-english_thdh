@@ -4,4 +4,11 @@
 		"pack_format": 8,
 		"name": "English (Thorn & Eth)"
 	}
+	"language": {
+    		"en_thdh": {
+      		"name": "English w/ Þ & Ð",
+      		"region": "United States",
+      		"bidirectional": false
+    		}
+  	}
 }
